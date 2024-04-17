@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Technotom16
 - 👀 I’m interested in video gaming & Programing
 - 🌱 I’m currently learning C# & tecnical computer science
-- 📫 How to reach me via e-mail: tom.taeuber@netcologne.de
+- 📫 Reach me via e-mail: tom.taeuber@netcologne.de
 - 😄 Pronouns: He/Him
 
 <!---
