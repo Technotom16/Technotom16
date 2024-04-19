@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Technotom16
-- 👀 I’m interested in video gaming & Programing
-- 🌱 I’m currently learning C# & tecnical computer science
+- 👀 I’m interested in Video Gaming & Programing
+- 🌱 I’m currently learning C# & Tecnical Computer Science
 - 📫 Reach me via e-mail: tom.taeuber@netcologne.de
 - 😄 Pronouns: He/Him
 
